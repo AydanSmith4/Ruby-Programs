@@ -1,4 +1,3 @@
-
 require 'google_drive'
 
 Drive = ::Google::Apis::DriveV3
