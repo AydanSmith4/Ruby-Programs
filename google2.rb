@@ -1,6 +1,5 @@
 
 require 'google_drive'
-require 'google/apis/drive_v3'
 
 Drive = ::Google::Apis::DriveV3
 drive = Drive::DriveService.new
